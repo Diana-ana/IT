@@ -1,0 +1,34 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+}
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+.nav-li{
+    list-style: none;
+    margin-left : 55px;
+    
+}
+.nav-ul{
+    display: flex;
+}
+.menu_a{
+    text-transform: uppercase;
+    color: #95e1d3;
+   
+}
+.menu_a:hover{
+    color: #f38181;
+    border-bottom: 3px solid #f38181;
+    padding-bottom: 10px;
+}
+main{
+
+}

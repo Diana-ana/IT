@@ -1,2 +1,17 @@
-@import './reset'
- 
+
+ * {
+    margin: 25;
+    padding: 15;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: rgba(206, 158, 203, 0.753);
+}
+
+li {
+    list-style: none;
+}
